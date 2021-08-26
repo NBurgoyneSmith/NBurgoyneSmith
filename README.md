@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NBurgoyneSmith
 - 👀 I’m interested in ... A career change
 - 🌱 I’m currently learning ... How to code
-- 📫 How to reach me ... <a href="www.linkedin.com/in/natasha-burgoyne-smith-101">
+- 📫 How to reach me ... <a href="http://www.linkedin.com/in/natasha-burgoyne-smith-101">
         Linkedin
       </a>
 
